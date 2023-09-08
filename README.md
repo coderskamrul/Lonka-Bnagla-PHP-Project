@@ -2,19 +2,24 @@
 user_management based on php where user can login and submit the form and admin can delete , update and view user.
 ### User Details
 1. Admin
-   >Email: smmunna@gmail.com  <br>
+   >Email: kamrul2058@gmail.com  <br>
    >Pass : 123456  <br>
 2. User
-   >Email: munna@gmail.com  <br>
+   >Email: kamrul@gmail.com  <br>
    >Pass : 1234  <br>
 
 ### Output Images
-1. ![image](https://github.com/smmunna/user_management/assets/64527538/6effecd1-2208-4fee-8b8f-4b83de84e427)
-2. ![image](https://github.com/smmunna/user_management/assets/64527538/eb05886c-8b0a-4905-9516-9ab4ea0be017)
-3. ![image](https://github.com/smmunna/user_management/assets/64527538/8363770c-ddae-4a7c-8eb9-4699da14b7c1)
-4. ![image](https://github.com/smmunna/user_management/assets/64527538/3c66f133-c15f-464c-bf37-70d43aa066b6)
-5. ![image](https://github.com/smmunna/user_management/assets/64527538/44eab88f-e07a-4c22-99fa-6a2de766e70d)
-6. After user login-> Form2 and Form3 ![image](https://github.com/smmunna/user_management/assets/64527538/68dec5ef-18f4-484f-8e83-596b9ade33e6)
+1. ![image](https://github.com/coderskamrul/Lonka-Bnagla-PHP-Project/blob/main/Assets/logIn.jpg)
+2. ![image](https://github.com/coderskamrul/Lonka-Bnagla-PHP-Project/blob/main/Assets/user%20home.jpg)
+3. ![image](https://github.com/coderskamrul/Lonka-Bnagla-PHP-Project/blob/main/Assets/customer%20form.jpg)
+4. ![image](https://github.com/coderskamrul/Lonka-Bnagla-PHP-Project/blob/main/Assets/customer%20form01.jpg)
+5. ![image](https://github.com/coderskamrul/Lonka-Bnagla-PHP-Project/blob/main/Assets/customer%20info%20panel.jpg)
+6. ![image](https://github.com/coderskamrul/Lonka-Bnagla-PHP-Project/blob/main/Assets/user%20view.jpg)
+7. ![image](https://github.com/coderskamrul/Lonka-Bnagla-PHP-Project/blob/main/Assets/customer%20info%20update.jpg)
+8. ![image](https://github.com/coderskamrul/Lonka-Bnagla-PHP-Project/blob/main/Assets/user%20registration.jpg)
+9. ![image](https://github.com/coderskamrul/Lonka-Bnagla-PHP-Project/blob/main/Assets/admin%20home.jpg)
+10. ![image](https://github.com/coderskamrul/Lonka-Bnagla-PHP-Project/blob/main/Assets/BO%20chart%201.jpg)
+11. ![image](https://github.com/coderskamrul/Lonka-Bnagla-PHP-Project/blob/main/Assets/BO%20chart%202.jpg)
 
 
 
@@ -26,5 +31,5 @@ user_management based on php where user can login and submit the form and admin 
 
 <hr>
 --Try this-> Hope this will helpful ... <br>
-Minhazul Abedin Munna  <br>
+Md Kamrul Hasan  <br>
 14 July 2023, 11:53 PM ⌚🎇
